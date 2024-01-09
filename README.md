@@ -12,8 +12,8 @@ We first developed and tested the controllers in Simulink. Since we did not have
 
 ## Team
 1. Piyush Goenka
-2. [Yoseph Ayeke Kebede](https://github.com/jossiayke)
-3. 
+2. [Yoseph Ayele Kebede](https://github.com/jossiayke)
+   
 ## Citation
 
 Woods, Alexander C., and Hung M. La. "A novel potential field controller for use on aerial robots." *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 49(4), 2017, pp. 665-676.
