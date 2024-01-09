@@ -1,8 +1,8 @@
-## Drone_Control_and_Navigation
+# Drone_Control_and_Navigation
 
-# MATLAB README
+## MATLAB README
 
-## Steps to set up PFC and ePFC Simulink model:
+### Steps to set up PFC and ePFC Simulink model:
 
 1. Download the developed MATLAB files (`setupPFC.m`, `setupEPFC.m`) and the Simulink models (`ARDronePFC.slx`, `ARDroneEPFC.slx`).
 
@@ -14,7 +14,7 @@
 
 5. A tab with XY graph would load first. Click on the Run button, and the XY trajectory of the drone would be plotted.
 
-# ROS README
+## ROS README
 
 **ROS version:** ROS Noetic
 **OS:** Ubuntu 20.04
@@ -22,7 +22,7 @@
 **Developed package:** `epfc_controller`
 **Dependency package:** `sjtu_drone`
 
-## Setup dependency package:
+### Setup dependency package:
 
 ```bash
 $ sudo apt-get install libignition-math4-dev
