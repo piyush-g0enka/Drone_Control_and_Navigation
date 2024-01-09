@@ -12,7 +12,7 @@ We first developed and tested the controllers in Simulink. Since we did not have
 
 ## Team
 1. Piyush Goenka
-2. My name is [Yoseph ](https://github.com/jossiayke)
+2. [Yoseph Ayeke Kebede](https://github.com/jossiayke)
 3. 
 ## Citation
 
