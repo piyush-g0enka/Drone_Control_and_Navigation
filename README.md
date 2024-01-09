@@ -31,9 +31,6 @@ $ git clone https://github.com/tahsinkose/sjtu-drone.git
 $ cd <catkin_ws>
 $ catkin_make
 
-Certainly! Here's the entire content in a single Markdown (.md) raw file:
-
-```markdown
 # Experiment 1:
 
 ## Launch file
