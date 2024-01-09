@@ -2,7 +2,7 @@
 
 This project is part of the ENPM667 - Control for Robotics Systems course at the University of Maryland. Here, we were tasked to replicate the results of a research paper focused on control systems.
 
-In our project we replicated the paper titled "A novel potential field controller for use on aerial robots." We developed and compared the performance of Potential Field Controller (PFC) and extended Potential Field Controller (ePFC) on an aerial robot (ARDrone).
+In our project we replicated the paper titled "A novel potential field controller for use on aerial robots." We developed and compared the performance of Potential Field Controller (PFC) and extended Potential Field Controller (ePFC) on an aerial robot (ARDrone). As seen below, our robot naviages autonomously to a set of waypoints (white) while avoiding obstacles (red) on the way.
 
 
 ![GIF Example](https://github.com/piyush-g0enka/Drone_Control_and_Navigation/blob/main/simulation_videos/epfc.gif)
