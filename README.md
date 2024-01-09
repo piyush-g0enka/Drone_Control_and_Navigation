@@ -9,6 +9,11 @@ In our project we replicated the paper titled "A novel potential field controlle
 
 We first developed and tested the controllers in Simulink. Since we did not have the robot hardware, we created Gazebo simulations of the same as a substitute.
 
+
+## Team
+1. Piyush Goenka
+2. My name is [Yoseph ](https://github.com/jossiayke)
+3. 
 ## Citation
 
 Woods, Alexander C., and Hung M. La. "A novel potential field controller for use on aerial robots." *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 49(4), 2017, pp. 665-676.
