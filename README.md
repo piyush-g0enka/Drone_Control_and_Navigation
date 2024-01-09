@@ -32,7 +32,7 @@ $ cd <catkin_ws>
 $ catkin_make
 ```
 
-```markdown
+
 # Setup Instructions:
 
 To set up the developed package (epfc_controller), follow these steps:
