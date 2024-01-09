@@ -30,7 +30,8 @@ $ cd <catkin_ws>/src
 $ git clone https://github.com/tahsinkose/sjtu-drone.git
 $ cd <catkin_ws>
 $ catkin_make
----
+```
+
 # Experiment 1:
 
 ## Launch file
