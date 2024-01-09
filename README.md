@@ -32,14 +32,27 @@ $ cd <catkin_ws>
 $ catkin_make
 ```
 
-# Experiment 1:
+```markdown
+# Setup Instructions:
 
-## Launch file
+To set up the developed package (epfc_controller), follow these steps:
+
+1. Place the package in the `src` folder of your Catkin workspace (catkin_ws).
+2. Build the package.
+
+# Running Experiments:
+
+For all experiments, we follow a two-step process. First, we run a launch file to bring up Gazebo. Then, we run a specific controller node.
+
+## Experiment 1:
+
+### Launch file
 - `Waypoints.launch` - Change the world in line 7 to `waypoints_1.world`
+- ```bash
   $ roslaunch epfc_controller waypoints.launch
   ```
 
-## Pfc Controller node
+### Pfc Controller node
 - `pfc.py` – uncomment lines 28-33 and comment lines 39-44
 - ```bash
   $ rosrun epfc_controller pfc.py
@@ -47,11 +60,12 @@ $ catkin_make
   
 or 
 
-## ePfc Controller node
+### ePfc Controller node
 - `epfc.py` – uncomment lines 27-33 and comment lines 38-44 and 49-55 
 - ```bash
   $ rosrun epfc_controller epfc.py
   ```
+```
 
 # Experiment 2:
 
