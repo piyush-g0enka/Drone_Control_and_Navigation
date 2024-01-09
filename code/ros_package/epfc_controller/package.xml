@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>epfc_controller</name>
+  <version>0.0.0</version>
+  <description>The epfc_controller package</description>
+
+  <maintainer email="pgoenka@umd.edu">Piyush Goenka</maintainer>
+
+
+  <license>GPLV3</license>
+
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>rospy</build_depend>
+  <build_depend>sjt_drone</build_depend>
+  <build_export_depend>rospy</build_export_depend>
+  <build_export_depend>sjt_drone</build_export_depend>
+  <exec_depend>rospy</exec_depend>
+  <exec_depend>sjt_drone</exec_depend>
+
+
+
+  <export>
+
+
+  </export>
+</package>
