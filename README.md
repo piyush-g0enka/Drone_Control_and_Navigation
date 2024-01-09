@@ -65,8 +65,7 @@ or
 - ```bash
   $ rosrun epfc_controller epfc.py
   ```
-```
-```
+
 # Experiment 2:
 
 ## Launch file
