@@ -43,7 +43,7 @@ To set up the developed package (epfc_controller), follow these steps:
 ### Running Experiments:
 
 For all experiments, we follow a two-step process. First, we run a launch file to bring up Gazebo. Then, we run a specific controller node.
-
+___
 ### Experiment 1:
 
 #### Launch file
@@ -65,7 +65,7 @@ or
 - ```bash
   $ rosrun epfc_controller epfc.py
   ```
-
+___
 ### Experiment 2:
 
 #### Launch file
@@ -87,7 +87,7 @@ or
 - ```bash
   $ rosrun epfc_controller epfc.py
   ```
-
+___
 ### Experiment 3:
 
 #### Launch file
