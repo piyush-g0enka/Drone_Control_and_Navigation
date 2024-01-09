@@ -30,12 +30,11 @@ $ cd <catkin_ws>/src
 $ git clone https://github.com/tahsinkose/sjtu-drone.git
 $ cd <catkin_ws>
 $ catkin_make
-
+- ```bash
 # Experiment 1:
 
 ## Launch file
 - `Waypoints.launch` - Change the world in line 7 to `waypoints_1.world`
-- ```bash
   $ roslaunch epfc_controller waypoints.launch
   ```
 
