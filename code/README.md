@@ -1,5 +1,3 @@
-# Drone_Control_and_Navigation
-
 ## MATLAB README
 
 ### Steps to set up PFC and ePFC Simulink model:
