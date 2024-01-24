@@ -9,6 +9,7 @@ In our project we replicated the paper titled "A novel potential field controlle
 
 We first developed and tested the controllers in Simulink. Since we did not have the robot hardware, we created Gazebo simulations of the same as a substitute.
 
+For instructions on running the code, please read the README in the code folder.
 
 ## Team
 1. Piyush Goenka
